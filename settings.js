@@ -41,7 +41,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "AEXBOT" //namabot kalian
+global.botname = "AEXBOT by ZEEONE OFC" //namabot kalian
 global.ownername = "Farel Arya" //nama kalian
 global.myweb = "https://farelarya.wordpress.com" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/@farelarya" //bebas asal jan hapus
